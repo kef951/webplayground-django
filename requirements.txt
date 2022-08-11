@@ -5,7 +5,7 @@ django-js-asset==2.0.0
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.7.0
-Pillow==9.1.1
+Pillow==8.4.0
 platformdirs==2.5.2
 pylint==2.14.3
 pylint-celery==0.3
