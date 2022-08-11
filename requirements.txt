@@ -1,5 +1,5 @@
 asgiref==3.4.1
-Django==4.0.5
+Django==3.2.15
 django-ckeditor==6.4.2
 django-js-asset==2.0.0
 isort==5.10.1
